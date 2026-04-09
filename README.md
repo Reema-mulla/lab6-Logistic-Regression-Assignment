@@ -1,15 +1,26 @@
 # Logistic Regression Assignment
 
+## Task
+
+Complete the provided notebook **02-Logistic Regression Assignment** by filling in the missing code cells so that the outputs match the expected results.
+
 ## Dataset
-This assignment uses the Titanic dataset.
 
-## Steps
-- Data loading and exploration
-- Data preprocessing
-- Train-test split
-- Logistic Regression model training
-- Evaluation using confusion matrix and classification report
+* advertising.csv
 
-## Results
-The model was evaluated using accuracy, precision, recall, and F1-score.
+## Work Done
+
+* Imported required libraries
+* Loaded the dataset into a DataFrame (ad_data)
+* Explored the data using info() and describe()
+* Created visualizations (histogram, jointplots, pairplot)
+* Performed train-test split
+* Trained a Logistic Regression model
+* Made predictions on test data
+* Evaluated the model using classification report
+
+## Result
+
+The outputs match the expected results provided in the assignment notebook.
+
 
