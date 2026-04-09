@@ -1,7 +1,7 @@
 # Logistic Regression Assignment
 
 ## Dataset
-This assignment uses the [Advertising / Titanic] dataset.
+This assignment uses the [Titanic] dataset.
 
 ## Steps
 - Data loading and exploration
